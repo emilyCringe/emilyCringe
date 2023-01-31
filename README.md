@@ -1,10 +1,7 @@
-- 👋 Hi, I’m emily ( @nepidelphia )
+- Hi, I’m emily 
 - Currently working on a MERN stack project for monitoring networked assets
 - Usually writing really hacky stuff in OpenEdge ABL, and maintaining a react-native app that helps to manage inventory in a warehouse
 
-Best way to reach me is discord @ emily!#1312 or twitter @nepidelphia
-
-(=^-ω-^=)
 
 
 <!---
