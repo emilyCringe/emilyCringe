@@ -1,7 +1,5 @@
 - Hi, I’m emily 
-- Currently working on a MERN stack project for monitoring networked assets
-- Usually writing really hacky stuff in OpenEdge ABL, and maintaining a react-native app that helps to manage inventory in a warehouse
-
+- Usually writing really hacky stuff in OpenEdge ABL
 
 
 <!---
