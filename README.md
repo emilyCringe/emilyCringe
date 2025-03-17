@@ -1,5 +1,6 @@
 - Hi, I’m emily 
 - Usually writing really hacky stuff in OpenEdge ABL
+- I have recently added Python to my list of programming languages that I am writing hacky stuff in
 
 
 <!---
